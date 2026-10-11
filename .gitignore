@@ -1,0 +1,12 @@
+# environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# written by D03/05-Evr-Ship-Churn-Model while you work
+mlflow.db
+mlruns/
+*.joblib
+scores.csv
+customer_*.json

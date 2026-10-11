@@ -1,0 +1,25 @@
+# Course environment · Introduction to Machine Learning · pinned 2026-10-02
+# Python 3.13.x (3.12 also works). Install: uv pip install -r requirements.txt
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.6
+pyarrow==25.0.1
+polars==1.44.2
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+xgboost==3.4.1
+lightgbm==4.7.0
+shap==0.52.0
+optuna==5.0.0
+imbalanced-learn==0.14.2
+mlflow-skinny==3.16.1
+joblib==1.6.0
+skops==0.16.0
+fastapi==0.142.2
+uvicorn==0.54.0
+streamlit==1.64.0
+jupyterlab==4.6.4
+ipykernel
+ipywidgets
+ucimlrepo==0.0.7
